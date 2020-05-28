@@ -346,6 +346,7 @@ footer {
     }
     .menu-item-desc {
         padding: 50px 20px;
+         margin-left:20px;
     }
 }
 @media (min-width: 768px) {
